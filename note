@@ -11,3 +11,47 @@ orada folder görəcəksən
 showmount -e <IP adress>
 
 __etc fold_-  echo “/bin/bash” >copy.sh
+
+nmap in sürətli versiyası —-  feroxbuster
+
+rlwrap nc -lnvp 4444
+
+https://github.com/H4CK3RT3CH/php-webshells
+
+                    CTF NOTE
+https://github.com/Adamkadaban/CTFs
+
+                    OSİNT
+
+https://github.com/hasamba/Hacking-and-CTF-Cheat-Sheet
+1.Şəkili bu sayta yerləşdirirsən : Şəkil hansı saytda varsa saytlardaki rəsimləri çıxarır
+
+https://pimeyes.com/en
+
+2.Şəkili upload edirsən o şəkilə bənzər rəsimləri göstərir
+
+ https://yandex.com/
+
+3.steghide tool
+
+4.exiftool tool
+
+5.binwalk tool
+
+6.**stegseek**  tool 
+
+7.stegseelc  —tool brutoforce
+
+
+                  Kriptoqrafiya
+**1.Özündə databazası olan hash sındırıcı**
+
+https://crackstation.net/
+
+https://hashes.com/
+
+2.İsdədiyin formatda hash encode və decode edə bilərsən bir neçə funksiyası var 
+
+https://gchq.github.io/CyberChef/
+
+3.Səslərdə şifrələnmə morse kod ilə şifrələnir
