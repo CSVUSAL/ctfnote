@@ -4,7 +4,7 @@ smbclient -L <IP adress>    yazırıq
 
 orada folder görəcəksən 
 
- smbclient [//<IP adress>/](https://10.10.96.14/shares)<folder>
+smbclient //<IP adress>/<folder>
 
 Əgər nmapda NFS görürsənsə o zaman
 
