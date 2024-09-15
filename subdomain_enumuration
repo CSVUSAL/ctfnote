@@ -1,0 +1,5 @@
+1.Subdomain enumuration command ----{ assetfinder --subs-only vusalqasimov.com }
+2.gedit commandı notepad yazmaq üçündü
+3.Subdomainləri hər hansı txt faylına yığdıqdan sonra aktiv olan subdomainleri listele command ----{ cat subdomain.txt | httprobe }
+4.assetfinder --subs-only vusalqasimov.com | httprobe | fff -S -o vusal
+5.  cd vusal ----  cat $(find -type f -name "*headers") | sort -u
